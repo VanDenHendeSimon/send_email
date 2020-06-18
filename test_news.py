@@ -5,7 +5,7 @@ from datetime import datetime
 
 
 def get_current_day():
-    return datetime.strftime(datetime.now(), '%D')
+    return datetime.strftime(datetime.now(), '%B %d, %Y')
 
 
 def get_relevant_articles(interests):
