@@ -1,1 +1,1 @@
-"# Email testing in Python" 
+# Email testing in Python
